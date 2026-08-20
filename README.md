@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/31270884/README.md)
 # HORARIOS PT/AL — versión web
 
 Esta carpeta contiene la versión web de la aplicación HORARIOS PT/AL.

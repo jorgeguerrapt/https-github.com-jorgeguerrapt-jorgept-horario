@@ -1,0 +1,13 @@
+{
+  "name": "Horario Especialista PT o AL",
+  "short_name": "HORARIOS PT/AL",
+  "description": "Gestión de horarios, alumnado y apoyos para especialistas PT/AL.",
+  "lang": "es",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#dff4ff",
+  "theme_color": "#12669d",
+  "icons": []
+}
